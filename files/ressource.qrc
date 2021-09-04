@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="image">
+    <file>logo_centrale.jpg</file>
+    <file>back.jpg</file>
+  </qresource>
+</RCC>
