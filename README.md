@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-
 =======
-<<<<<<< HEAD
+
 # Demand forecasting with python
 Develop a software that allows you to :
 - Make commercial forecasts from a history
@@ -31,5 +29,3 @@ XlsxWriter==1.3.7
 python version for this project: 3.7.4
 =======
 
->>>>>>> e8357614bbbe19d237b8446082036ac32f628b2c
->>>>>>> Stashed changes
