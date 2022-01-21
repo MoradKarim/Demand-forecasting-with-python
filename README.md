@@ -9,6 +9,8 @@ Develop a software that allows you to :
 # Forecasting algorithm(s) used:
 - Single, double and triple exponential smoothing with parameter optimisation 
 - ARIMA to compute a statistic model
+
+# Features
 - Give the decision-maker the choice of which algorithm(s) to use
 - Propose default settings, and give the decision maker the decision maker to change the parameters
  
