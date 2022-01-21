@@ -6,13 +6,13 @@ Develop a software that allows you to :
 - Compare several forecasting methods
 - Display the results (forecasts and comparison)
 
-#Forecasting algorithm(s) used:
+# Forecasting algorithm(s) used:
 - Single, double and triple exponential smoothing with parameter optimisation 
 - ARIMA to compute a statistic model
 - Give the decision-maker the choice of which algorithm(s) to use
 - Propose default settings, and give the decision maker the decision maker to change the parameters
  
-#Requirements 
+# Requirements 
 - Pillow==8.1.0
 - matplotlib==3.3.3
 - pandas==1.2.0
@@ -26,6 +26,6 @@ Develop a software that allows you to :
 - tensorflow-keras==1.12.0
 - XlsxWriter==1.3.7
 
-python version for this project: 3.7.4
+# python version for this project: 3.7.4
 =======
 
