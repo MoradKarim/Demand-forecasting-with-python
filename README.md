@@ -9,6 +9,7 @@ Develop a software that allows you to :
 # Forecasting algorithm(s) used:
 - Single, double and triple exponential smoothing with parameter optimisation 
 - ARIMA to compute a statistic model
+- LSTM, a deep learning model
 
 # Features
 - Give the decision-maker the choice of which algorithm(s) to use
